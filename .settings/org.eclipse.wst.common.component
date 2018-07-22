@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="CashEquity">
+    <wb-module deploy-name="CashEquityOMS">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="CashEquity"/>
-        <property name="java-output-path" value="/CashEquity/build/classes"/>
+        <property name="java-output-path" value="/CashEquityOMS/build/classes"/>
+        <property name="context-root" value="CashEquityOMS"/>
     </wb-module>
 </project-modules>
